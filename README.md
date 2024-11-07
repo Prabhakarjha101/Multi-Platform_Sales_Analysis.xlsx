@@ -15,16 +15,16 @@
 * Which channel contributes to maximum sales?
 * highest selling category?
 
-  ## insights
+## Insights
   
   *Target women customers of the age group (30-49 yrs) living in Maharastra, Karnataka, Uttar Pradesh by
   showing ads/offers/coupons available on Amazon, Flipkart, and Myntra.
 
-  ## Technology used
+## Technology used
 
   * Excel for data analysis and visualization
 
-  ## How to use this analysis
+## How to use this analysis
   
 * The insights from this analysis can help in targeting specific customer groups with tailored marketing campaigns, optimizing  inventory for top-selling categories, 
    and identifying peak sales months to maximize revenue.
